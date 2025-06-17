@@ -1,0 +1,1 @@
+# Customer-Segmentation-and-Revenue-Target--SQL-Project
