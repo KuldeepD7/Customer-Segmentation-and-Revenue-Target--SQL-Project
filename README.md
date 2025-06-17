@@ -1,9 +1,3 @@
-# Customer-Segmentation-and-Revenue-Target--SQL-Project
-
-## Project Overview
-### Project Title:
-Customer Segmentation and Revenue target
-
 # 🛍️ Customer Segmentation & Revenue Targeting using SQL
 
 ## 📊 Project Overview
