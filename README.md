@@ -6,7 +6,7 @@ This project focuses on analyzing customer purchasing behavior for an e-commerce
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The goal is to:
 - Segment customers based on behavior using RFM analysis
@@ -16,7 +16,7 @@ The goal is to:
 
 ---
 
-## 🗂️ Dataset Description
+## Dataset Description
 
 - **File Name**: `ecommerce_customer_data_large.csv`
 - **Total Columns**: 13
@@ -27,7 +27,7 @@ The goal is to:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **SQL**: MySQL
 - **Data Preparation**: CSV via MySQL import
@@ -35,7 +35,7 @@ The goal is to:
 
 ---
 
-## 🧪 Key SQL Tasks Performed
+##  SQL Tasks Performed
 
 1. **RFM Segmentation**:
    - Calculated Recency (days since last purchase)
@@ -58,7 +58,7 @@ The goal is to:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - A small percentage of customers contribute a major share of revenue (Pareto effect)
 - Electronics & Home categories dominate in sales
@@ -67,27 +67,20 @@ The goal is to:
 
 ---
 
-## 🧠 Business Recommendations
+## Business Recommendations
 
 - Focus retention campaigns on high-Monetary, low-Frequency customers
 - Launch exclusive loyalty benefits for Electronics buyers
 - Target female customers aged 25–35 with personalized deals
 - Improve return policy awareness for high-return product categories
 
----
-
-## 🚀 Future Work
-
-- Build dashboards in Power BI or Tableau for live monitoring
-- Apply machine learning for churn prediction
-- Use customer lifetime value (CLTV) modeling
 
 ---
 
 ## 👤 Author
 
 **Kuldeep Dwivedi**  
-Aspiring Data Analyst | B.Com (Finance) | SQL • Python • Power BI  
-[LinkedIn](https://www.linkedin.com/) *(insert link here)*
+Aspiring Data Analyst | Research Analyst (Finance) | SQL • Python • Power BI  
+[LinkedIn](https://www.linkedin.com/) 
 
 
